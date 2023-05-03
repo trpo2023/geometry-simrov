@@ -1,3 +1,4 @@
+bebra
 #include <ctype.h>
 #include <math.h>
 #include <stdio.h>
@@ -7,7 +8,8 @@
 
 #define massive_size 50
 
-int main()
+        int
+        main()
 {
     float radius = 0, radius2 = 0;
     float area = 0, perimeter = 0, area2 = 0, perimetr2 = 0;

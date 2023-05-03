@@ -1,5 +1,5 @@
 APP_NAME = geometry
-APP_NAME_TEST = thirdparty
+APP_NAME_TEST = test
 LIB_NAME = libgeometry
 
 CFLAGS = -Wall -Wextra -Werror
